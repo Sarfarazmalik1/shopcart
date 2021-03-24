@@ -1,0 +1,16 @@
+#footer{
+    display:flex;
+    justify-content: center;
+    color:black;
+    min-height: 40px;
+    margin: 3px;
+    padding: 10px;
+    overflow: hidden;
+    background:blue;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+  
+}
